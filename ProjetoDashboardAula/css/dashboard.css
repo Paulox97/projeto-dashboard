@@ -1,4 +1,25 @@
 
-.teste{
-    color: #198754;
+.avatar img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+.w-12{
+    width: 12rem;
+}
+
+.sidebar{
+    width: 12rem;
+    height: 100vh;
+    box-shadow: 1px 0 2px rgba(186, 186, 186, .5);
+    position: relative;
+    top: 4rem;
+}
+
+.mr-5{
+    margin-right: 5px;
+}
+
+.ml-1{
+    margin-left: 1rem;
 }
